@@ -4069,3 +4069,23 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .c-custom_status {
   display:none;
 }
+
+/* REACTIONS */
+.c-reaction, .c-reaction_add {
+	font-size: 11px;
+	line-height: 16px;
+	padding: 2px 3px;
+	display: inline-flex;
+	align-items: center;
+	vertical-align: top;
+	background: #222222;
+	border: 0;
+	border-radius: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.c-reaction:hover, .c-reaction_add:hover {
+  background: #636363;
+  
+}
