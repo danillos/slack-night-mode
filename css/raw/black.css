@@ -4089,3 +4089,19 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
   background: #636363;
   
 }
+
+/* TEXTS */
+.c-message__body {
+  color: #C2BDAE;
+}
+
+/* SIDEBAR BACKGROUNG */
+.p-channel_sidebar__static_list {
+  background: #1B1B1B !important;
+}
+
+/* SIDEBAR TOP */
+#team_menu {
+	background: #1B1B1B;
+	border-bottom: 0;
+}
